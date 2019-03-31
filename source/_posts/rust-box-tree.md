@@ -4,7 +4,7 @@ date: 2018-09-24 18:05:15
 tags: Rust
 ---
 
-在C++11中也有智能指针shared_ptr，unique_ptr，shared_ptr，在Rust中也有叫智能指针的东西，今天我们来讨论一下Box。现在我们要构建一个二叉树。在Python中实现是比较简单的：
+在C++11中也有智能指针shared_ptr，unique_ptr，weak_ptr，在Rust中也有叫智能指针的东西，今天我们来讨论一下Box。现在我们要构建一个二叉树。在Python中实现是比较简单的：
 
 ```python 
 class Tree:
