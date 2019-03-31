@@ -52,7 +52,7 @@ tags: 黑裙、蜗牛星际
 
 在windows下操作:
 
-1. 安装OSFMount，完成后运行OSFMount (下载途径)[https://pan.baidu.com/s/1Mo_lXEGI1qo-8tUHDgGqDg] 提取码:6eyz；
+1. 安装OSFMount，完成后运行OSFMount [下载途径](https://pan.baidu.com/s/1Mo_lXEGI1qo-8tUHDgGqDg) 提取码:6eyz；
 
 2. 点击左下角-Mount new，选择下载的img镜像(img镜像目录必须是英文或着数字，不能是中文)；
 ![选择镜像](https://raw.githubusercontent.com/dyike/dyike.github.io/master/images/nas/OSFMount1.png)
