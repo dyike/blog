@@ -98,7 +98,7 @@ tags: 黑裙、蜗牛星际
 3. 选中NAS主机安装DSM系统，浏览找到pat格式，依照提示安装即可；
 
 4. 这里不要把自动更新打开，也不要开启任何反馈计划；
-![安装DSM选项](https://raw.githubusercontent.com/dyike/dyike.github.io/master/images/nas/DSM-4.png)
+![安装DSM选项](https://raw.githubusercontent.com/dyike/dyike.github.io/master/images/nas/DSM-4.jpeg)
 
 5. 初始化DSM完成，进入桌面后，关机。
 
